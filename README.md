@@ -86,8 +86,11 @@ The game typically consists of 10-15 questions and takes 15-20 minutes to play.
 - Send a message like:  
 
 🚀 Get ready for the Meshtastic Trivia Challenge!
+
 📅 Starts at 7:00 PM
+
 🧠 10 Questions, Fastest Answers Win!
+
 🏆 Prizes for the Top 3 Winners!
 
 ---
