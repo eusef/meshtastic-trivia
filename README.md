@@ -1,18 +1,6 @@
 **Welcome to the Meshtastic Trivia Game Framework!**
 
-
-
 This framework is designed to bring local Meshtastic groups together in a fun, engaging, and purposeful way.
-
-
-
-
-
-
-
-
-
-
 
 **Purpose:**
 
@@ -25,6 +13,10 @@ This framework is designed to bring local Meshtastic groups together in a fun, e
 
 
 By using trivia games as a fun and interactive approach, participants can strengthen their skills, relationships, and readiness — all while having a great time!
+
+
+
+--------------
 
 
 
